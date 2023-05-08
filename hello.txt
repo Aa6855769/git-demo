@@ -83,4 +83,4 @@ hello atchenshuai! hello git!
 hello atchenshuai! hello git! 
 hello atchenshuai! hello git! 
 hello atchenshuai! hello git! 
-hello atchenshuai! hello git! 
+hello atchenshuai! hello git! hot -fix test
